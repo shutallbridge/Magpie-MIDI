@@ -1,5 +1,8 @@
+###Options for where channel is pre-determined
+sip_puff = ["Sip", "Puff"]
+
 ###Options for keyboard letters
-alphabet = [
+alphabet_list = [
     "a",
     "b",
     "c",
@@ -49,4 +52,18 @@ midi_notes_list = [
     "E2",
     "F2",
     "G2"
+]
+
+gaming_buttons_list = [
+    "LT",
+    "LB",
+    "RT",
+    "RB",
+    "X",
+    "Y",
+    "A",
+    "B",
+    "START",
+    "BACK",
+    "GUIDE"
 ]
