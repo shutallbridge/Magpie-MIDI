@@ -1,0 +1,52 @@
+###Options for keyboard letters
+alphabet = [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z"
+]
+
+###Options MIDI settings
+midi_notes_list = [
+    "C1",
+    "D1",
+    "E1",
+    "F1",
+    "G1",
+    "A1",
+    "B1",
+    "C2",
+    "D2",
+    "E2",
+    "F2",
+    "G2",
+    "A2",
+    "B2",
+    "C2",
+    "D2",
+    "E2",
+    "F2",
+    "G2"
+]
